@@ -1,11 +1,11 @@
 # Site settings
-author: Lana Worobec
-title: 
+author: Lana W. 
+title: Programming Notebook
 header-img: img/home-bg.png
 email: llama.p0rtk3y@gmail.com
-copyright_name: Lana Worobec
+copyright_name: Lana W. 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Compilation of Noteworthies
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  P0rtk3y
